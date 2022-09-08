@@ -1,0 +1,13 @@
+.content-1 {
+    background-color: #fff;
+}
+
+.content-2 {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 30px;
+}
+
+.content-1-right{
+    border-left: 1px solid rgb(105, 105, 105);
+}
