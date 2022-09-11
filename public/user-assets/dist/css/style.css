@@ -3,11 +3,58 @@
 }
 
 .content-2 {
-    width: 80%;
-    margin-left: 10%;
+    width: 90%;
+    margin-left: 5%;
     margin-top: 30px;
 }
 
+.content-2-block1{
+    border-right: 1px solid rgb(230, 230, 230);
+}
+
+.account-status{
+    font-size: 0.8em;
+    color: rgb(83, 83, 83);
+} 
+
 .content-1-right{
     border-left: 1px solid rgb(105, 105, 105);
+}
+
+.dashboard-container3 .heading{
+    font-size: 0.7em;
+}
+
+.dashboard-container3 .small-text{
+    font-size: 0.6em;
+}
+
+.amount-area1{
+    background-color: #FF33FF;
+    text-align: center;
+    padding: 8px;
+}
+
+.amount-area2{
+    text-align: center;
+    background-color: #FFCE33;
+    padding: 8px;
+}
+
+.amount-area3{
+    text-align: center;
+    background-color: #FF5733;
+    padding: 8px;
+}
+
+.amount-area4{
+    text-align: center;
+    background-color: #61FF33;
+    padding: 8px;
+}
+
+.dashboard-container3 a {
+    font-size: 10px;
+    margin-top: 10px;
+    width: 100%;
 }
