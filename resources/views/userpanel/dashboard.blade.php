@@ -59,7 +59,7 @@
                               <small class="badge badge-secondary">View All</small>
                             </div>
                             <div>
-                              <div class="amount-stat" style="background-color:#FFCE33;padding:15px;border-radius:5px;"><sup>TK</sup>100</div>
+                              <div class="amount-stat" style="background-color:#FFCE33;"><small>BDT</small><br>100</div>
                             </div>
                           </div>
                           <div class="col-md-6 d-flex justify-content-between align-items-center">
@@ -70,7 +70,7 @@
                               <small class="badge badge-secondary">View All</small>
                             </div>
                             <div>
-                              <div class="amount-stat" style="background-color:#FF5733;padding:15px;border-radius:5px;"><sup>TK</sup>100</div>
+                              <div class="amount-stat" style="background-color:#FF5733;">100</div>
                             </div>
                           </div>
                           <div class="col-md-6 d-flex justify-content-between align-items-center">
@@ -81,7 +81,7 @@
                               <small class="badge badge-secondary">View All</small>
                             </div>
                             <div>
-                              <div class="amount-stat" style="background-color:#fff;padding:15px;border-radius:5px;"><sup>TK</sup>100</div>
+                              <div class="amount-stat" style="background-color:cyan;"><small>BDT</small><br>100</div>
                             </div>
                           </div>
                           <div class="col-md-6 d-flex justify-content-between align-items-center">
@@ -92,7 +92,7 @@
                               <small class="badge badge-secondary">View All</small>
                             </div>
                             <div>
-                              <div class="amount-stat" style="background-color:#fff;padding:15px;border-radius:5px;"><sup>TK</sup>100</div>
+                              <div class="amount-stat" style="background-color:cyan;">100</div>
                             </div>
                           </div>
                           <div class="col-md-6 d-flex justify-content-between align-items-center">
@@ -103,7 +103,7 @@
                               <small class="badge badge-secondary">View All</small>
                             </div>
                             <div>
-                              <div class="amount-stat" style="background-color:#FFCE33;padding:15px;border-radius:5px;"><sup>TK</sup>100</div>
+                              <div class="amount-stat" style="background-color:#FFCE33;"><small>BDT</small><br>100</div>
                             </div>
                           </div>
                           <div class="col-md-6 d-flex justify-content-between align-items-center">
@@ -114,7 +114,7 @@
                               <small class="badge badge-secondary">View All</small>
                             </div>
                             <div>
-                              <div class="amount-stat" style="background-color:#FF5733;padding:15px;border-radius:5px;"><sup>TK</sup>100</div>
+                              <div class="amount-stat" style="background-color:#FF5733;">100</div>
                             </div>
                           </div>
                           <div class="col-md-6 d-flex justify-content-between align-items-center">
@@ -125,7 +125,7 @@
                               <small class="badge badge-secondary">View All</small>
                             </div>
                             <div>
-                              <div class="amount-stat" style="background-color:#fff;padding:15px;border-radius:5px;"><sup>TK</sup>100</div>
+                              <div class="amount-stat" style="background-color:cyan;"><small>BDT</small><br>100</div>
                             </div>
                           </div>
                           <div class="col-md-6 d-flex justify-content-between align-items-center">
@@ -136,7 +136,7 @@
                               <small class="badge badge-secondary">View All</small>
                             </div>
                             <div>
-                              <div class="amount-stat" style="background-color:#fff;padding:15px;border-radius:5px;"><sup>TK</sup>100</div>
+                              <div class="amount-stat" style="background-color:cyan;">100</div>
                             </div>
                           </div>
                         </div>

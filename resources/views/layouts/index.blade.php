@@ -1,3 +1,3 @@
-@include('layouts\patials\header')
+@include('layouts.patials.header')
 @yield('content')
-@include('layouts\patials\footer')
+@include('layouts.patials.footer')
